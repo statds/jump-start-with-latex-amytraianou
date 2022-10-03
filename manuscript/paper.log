@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.27)  2 OCT 2022 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.27)  2 OCT 2022 21:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,7 +355,6 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 24.
- (./paper.out) (./paper.out)
 \@outlinefile=\write3
 \openout3 = `paper.out'.
 
@@ -365,35 +364,89 @@ Package hyperref Info: Link coloring ON on input line 24.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{abstract}
+l.30 \end{abstract}
                     [1]
+
+Package natbib Warning: Citation `mehta1991epidemiology' on page 1 undefined on input line 41.
+
+
+Package natbib Warning: Citation `mehta1991epidemiology' on page 1 undefined on input line 43.
+
+
+Package natbib Warning: Citation `jewell2004statistics' on page 1 undefined on input line 46.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 
-      [1] [2] [3] [4]
-<cars.pdf, id=72, 433.62pt x 289.08pt>
+l.47 
+      [1]
+
+LaTeX Warning: Reference `sec:data' on page 2 undefined on input line 51.
+
+
+LaTeX Warning: Reference `sec:meth' on page 2 undefined on input line 52.
+
+
+LaTeX Warning: Reference `sec:resu' on page 2 undefined on input line 53.
+
+
+LaTeX Warning: Reference `sec:disc' on page 2 undefined on input line 54.
+
+[2]
+
+LaTeX Warning: Reference `eq:area' on page 3 undefined on input line 80.
+
+[3]
+
+LaTeX Warning: Reference `tab:rv' on page 4 undefined on input line 93.
+
+[4]
+
+LaTeX Warning: Reference `fig:cars' on page 5 undefined on input line 118.
+
+<cars.pdf, id=40, 433.62pt x 289.08pt>
 File: cars.pdf Graphic file (type pdf)
 <use cars.pdf>
-Package pdftex.def Info: cars.pdf  used on input line 122.
+Package pdftex.def Info: cars.pdf  used on input line 123.
 (pdftex.def)             Requested size: 469.75502pt x 313.1854pt.
- [5] [6 <./cars.pdf>] (./paper.bbl) [7] (./paper.aux)
-Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
+[5] [6 <./cars.pdf>]
+
+Package natbib Warning: Citation `mehta1991epidemiology' on page 7 undefined on input line 138.
+
+No file paper.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[7] (./paper.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `paper.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `paper.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
- 10309 strings out of 475326
- 165773 string characters out of 5784792
- 599401 words of memory out of 5000000
- 31307 multiletter control sequences out of 15000+600000
- 475592 words of font info for 50 fonts, out of 8000000 for 9000
+ 10282 strings out of 475326
+ 165350 string characters out of 5784792
+ 598734 words of memory out of 5000000
+ 31291 multiletter control sequences out of 15000+600000
+ 475245 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,366b,344s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on paper.pdf (9 pages, 116347 bytes).
+ 72i,8n,77p,366b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on paper.pdf (9 pages, 100276 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
