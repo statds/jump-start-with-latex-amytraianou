@@ -3,66 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: paper.aux
 The style file: chicago.bst
 Database file #1: bibliography.bib
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Jay B. Mehta, Asim Dutt, Leo Harvill, Kenneth M. Mathews" for entry mehta1991epidemiology
-while executing---line 1645 of file chicago.bst
-Warning--page numbers missing in mehta1991epidemiology
 You've used 2 entries,
             2861 wiz_defined-function locations,
-            624 strings with 5116 characters,
-and the built_in function-call counts, 987 in all, are:
-= -- 73
-> -- 52
+            625 strings with 5138 characters,
+and the built_in function-call counts, 1314 in all, are:
+= -- 96
+> -- 104
 < -- 0
-+ -- 12
-- -- 20
-* -- 72
-:= -- 201
++ -- 30
+- -- 34
+* -- 123
+:= -- 254
 add.period$ -- 6
 call.type$ -- 2
-change.case$ -- 11
+change.case$ -- 14
 chr.to.int$ -- 2
-cite$ -- 3
-duplicate$ -- 34
-empty$ -- 73
-format.name$ -- 20
-if$ -- 169
+cite$ -- 2
+duplicate$ -- 35
+empty$ -- 80
+format.name$ -- 38
+if$ -- 235
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 3
 newline$ -- 13
 num.names$ -- 20
-pop$ -- 10
+pop$ -- 13
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 27
 quote$ -- 0
 skip$ -- 36
 stack$ -- 0
-substring$ -- 40
+substring$ -- 59
 swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 30
-warning$ -- 1
-while$ -- 20
+warning$ -- 0
+while$ -- 18
 width$ -- 0
 write$ -- 28
-(There were 10 error messages)

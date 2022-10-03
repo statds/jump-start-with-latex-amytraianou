@@ -1,15 +1,15 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{Jay B.~Mehta}{Jay
-  B.~Mehta}{1991}]{mehta1991epidemiology}
-Jay B.~Mehta, Asim~Dutt, L. H. K. M.~M. (1991).
-\newblock Epidemiology of extrapulmonary tuberculosis: A comparative analysis
-  with pre-aids era.
-\newblock {\em Chest\/}~{\em 99\/}(5).
-
 \bibitem[\protect\citeauthoryear{Jewell}{Jewell}{2004}]{jewell2004statistics}
 Jewell, N. (2004).
 \newblock {\em Statistics for Epidemiology\/} (1 ed.).
 \newblock Chapman and Hall/CRC.
+
+\bibitem[\protect\citeauthoryear{Mehta, Dutt, Harvill, and M.~Mathews}{Mehta
+  et~al.}{1991}]{mehta1991epidemiology}
+Mehta, J.~B., A.~Dutt, L.~Harvill, and K.~M. M.~Mathews (1991).
+\newblock Epidemiology of extrapulmonary tuberculosis: A comparative analysis
+  with pre-aids era.
+\newblock {\em Chest\/}~{\em 99\/}(5), 40--45.
 
 \end{thebibliography}

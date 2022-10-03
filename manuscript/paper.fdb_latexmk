@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex paper"] 1664760926 "paper.aux" "paper.bbl" "paper" 1664760926
+["bibtex paper"] 1664762056 "paper.aux" "paper.bbl" "paper" 1664762057
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "bibliography.bib" 1664760462 540 13e09f5605dc777c28387ad7e586461a ""
-  "paper.aux" 1664760926 1992 dfb1ddc23401e24733804bd4553e1a1f "pdflatex"
+  "bibliography.bib" 1664762055 588 571e4c7bf44aefa62ed836bd23b4c227 ""
+  "paper.aux" 1664762057 2153 857d272465b0b5622c5450fc689f82ba "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
-["pdflatex"] 1664760925 "/Users/amytraianou/Downloads/uconn/Fall 2022/STAT 3494W/jump-start-with-latex-amytraianou/manuscript/paper.tex" "paper.pdf" "paper" 1664760925
+["pdflatex"] 1664762056 "/Users/amytraianou/Downloads/uconn/Fall 2022/STAT 3494W/jump-start-with-latex-amytraianou/manuscript/paper.tex" "paper.pdf" "paper" 1664762057
   "/Users/amytraianou/Downloads/uconn/Fall 2022/STAT 3494W/jump-start-with-latex-amytraianou/manuscript/paper.tex" 1664760920 2723 c271d5e36c797ba20f868f24df796955 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -23,11 +23,13 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -90,9 +92,9 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664261035 3024760 accb52bd983a3a49e0634e4fd6ffb5e1 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "cars.pdf" 1664760462 7003 e6eff23386d0d6639d6dde3645a47836 ""
-  "paper.aux" 1664760925 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "paper.bbl" 0 -1 0 "bibtex paper"
-  "paper.out" 0 -1 0 "pdflatex"
+  "paper.aux" 1664762057 2153 857d272465b0b5622c5450fc689f82ba "pdflatex"
+  "paper.bbl" 1664762056 562 546f6aee935927a141ad21c6a2c09b6e "bibtex paper"
+  "paper.out" 1664762057 415 a2da40bc6b073a49d78286fdb82ec60d "pdflatex"
   "paper.tex" 1664760920 2723 c271d5e36c797ba20f868f24df796955 ""
   (generated)
   "paper.aux"
