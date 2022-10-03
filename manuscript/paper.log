@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.27)  2 OCT 2022 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.27)  2 OCT 2022 20:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,96 +355,35 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 24.
+ (./paper.out) (./paper.out)
 \@outlinefile=\write3
 \openout3 = `paper.out'.
 
  [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `xie2015dynamic' on page 2 undefined on input line 40.
-
-
-Package natbib Warning: Citation `xie2015dynamic' on page 2 undefined on input line 42.
-
-
-Package natbib Warning: Citation `dwivedi2017analysis' on page 2 undefined on input line 45.
-
-
-LaTeX Warning: Reference `sec:data' on page 2 undefined on input line 50.
-
-
-LaTeX Warning: Reference `sec:meth' on page 2 undefined on input line 51.
-
-
-LaTeX Warning: Reference `sec:resu' on page 2 undefined on input line 52.
-
-
-LaTeX Warning: Reference `sec:disc' on page 2 undefined on input line 53.
-
-[2] [3]
-
-LaTeX Warning: Reference `eq:area' on page 4 undefined on input line 79.
-
-
-LaTeX Warning: Reference `tab:rv' on page 4 undefined on input line 92.
-
-[4]
-
-LaTeX Warning: Reference `fig:cars' on page 5 undefined on input line 117.
-
-
-LaTeX Warning: File `cars.pdf' not found on input line 122.
-
-
-/Users/amytraianou/Downloads/uconn/Fall 2022/STAT 3494W/jump-start-with-latex-amytraianou/manuscript/paper.tex:122: Package pdftex.def Error: File `cars.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.122 ...cludegraphics[width=\textwidth]{cars.pdf}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[5] [6]
-
-Package natbib Warning: Citation `wild2004global' on page 7 undefined on input line 137.
-
-No file paper.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-[7] (./paper.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `paper.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `paper.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  A2DA40BC6B073A49D78286FDB82EC60D;415.
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+<cars.pdf, id=67, 433.62pt x 289.08pt>
+File: cars.pdf Graphic file (type pdf)
+<use cars.pdf>
+Package pdftex.def Info: cars.pdf  used on input line 122.
+(pdftex.def)             Requested size: 469.75502pt x 313.1854pt.
+ [5] [6 <./cars.pdf>] (./paper.bbl) [7] (./paper.aux)
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: A2DA40BC6B073A49D78286FDB82EC60D;415.
  ) 
 Here is how much of TeX's memory you used:
- 10326 strings out of 475326
- 165926 string characters out of 5784792
- 599763 words of memory out of 5000000
- 31320 multiletter control sequences out of 15000+600000
- 476022 words of font info for 52 fonts, out of 8000000 for 9000
+ 10312 strings out of 475326
+ 165809 string characters out of 5784792
+ 600430 words of memory out of 5000000
+ 31309 multiletter control sequences out of 15000+600000
+ 475893 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,366b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on paper.pdf (7 pages, 119263 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on paper.pdf (7 pages, 138128 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
